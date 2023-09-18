@@ -1,0 +1,86 @@
+[
+  {
+    "index": 0,
+    "position": "Close LP",
+    "fee_type": "Maker",
+    "product_id": "PERPE",
+    "notional_amount_usdc": 160235.171232
+  },
+  {
+    "index": 2,
+    "position": "Close Long",
+    "fee_type": "Taker",
+    "product_id": "PERPE",
+    "notional_amount_usdc": 10604.548152000001
+  },
+  {
+    "index": 4,
+    "position": "Close Short",
+    "fee_type": "Taker",
+    "product_id": "PERPE",
+    "notional_amount_usdc": 5306.8623339999995
+  },
+  {
+    "index": 6,
+    "position": "Open LP",
+    "fee_type": "Maker",
+    "product_id": "PERPE",
+    "notional_amount_usdc": 199284.249047
+  },
+  {
+    "index": 8,
+    "position": "Open Long",
+    "fee_type": "Taker",
+    "product_id": "PERPE",
+    "notional_amount_usdc": 10698.314433000001
+  },
+  {
+    "index": 10,
+    "position": "Open Short",
+    "fee_type": "Taker",
+    "product_id": "PERPE",
+    "notional_amount_usdc": 15628.533664
+  },
+  {
+    "index": 1,
+    "position": "Close LP",
+    "fee_type": "Maker",
+    "product_id": "TCAP",
+    "notional_amount_usdc": 1010193.089936
+  },
+  {
+    "index": 3,
+    "position": "Close Long",
+    "fee_type": "Taker",
+    "product_id": "TCAP",
+    "notional_amount_usdc": 252449.601088
+  },
+  {
+    "index": 5,
+    "position": "Close Short",
+    "fee_type": "Taker",
+    "product_id": "TCAP",
+    "notional_amount_usdc": 76456.03039
+  },
+  {
+    "index": 7,
+    "position": "Open LP",
+    "fee_type": "Maker",
+    "product_id": "TCAP",
+    "notional_amount_usdc": 1181953.289423
+  },
+  {
+    "index": 9,
+    "position": "Open Long",
+    "fee_type": "Taker",
+    "product_id": "TCAP",
+    "notional_amount_usdc": 251326.337409
+  },
+  {
+    "index": 11,
+    "position": "Open Short",
+    "fee_type": "Taker",
+    "product_id": "TCAP",
+    "notional_amount_usdc": 77460.113154
+  }
+]
