@@ -1,5 +1,12 @@
 [
-    {"market": "Spot", "exchange": "Binance", "pair": "OCEAN-USD", "volume": 10957173983},
+    {"market": "Perp", "exchange": "Binance", "pair": "OCEAN-USD", "volume": 10957173983},
+    {"market": "Perp", "exchange": "Bitget", "pair": "OCEAN-USD", "volume": 379962790.8},
+    {"market": "Perp", "exchange": "Bybit", "pair": "OCEAN-USD", "volume": 1835249416},
+    {"market": "Perp", "exchange": "Crypto.com Exchange", "pair": "OCEAN-USD", "volume": 10854942.99},
+    {"market": "Perp", "exchange": "gate.io", "pair": "OCEAN-USD", "volume": 90568282},
+    {"market": "Perp", "exchange": "Kraken", "pair": "OCEAN-USD", "volume": 113332048.5},
+    {"market": "Perp", "exchange": "KuCoin", "pair": "OCEAN-USD", "volume": 169821139.7},
+    {"market": "Perp", "exchange": "MEXC Global", "pair": "OCEAN-USD", "volume": 250439468.5},
     {"market": "Spot", "exchange": "Binance", "pair": "OCEAN-USDT", "volume": 48409578.82},
     {"market": "Spot", "exchange": "Binance", "pair": "OCEAN-BNB", "volume": 222360920},
     {"market": "Spot", "exchange": "Binance", "pair": "OCEAN-EUR", "volume": 89949158.6},
@@ -38,4 +45,3 @@
     {"market": "Spot", "exchange": "Upbit", "pair": "OCEAN-KRW", "volume": 103302625.2},
     {"market": "Spot", "exchange": "WhiteBIT", "pair": "OCEAN-USDT", "volume": 89829089.43}
 ]
-
