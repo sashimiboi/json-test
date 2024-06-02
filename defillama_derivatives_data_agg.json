@@ -1,0 +1,757 @@
+[
+    {
+        "network": "Base",
+        "derivatives": "Xena Finance",
+        "volume_usd": 208839732.28666145
+    },
+    {
+        "network": "Fuse",
+        "derivatives": "LogX",
+        "volume_usd": 1915653.0
+    },
+    {
+        "network": "Polygon",
+        "derivatives": "Metavault.Trade",
+        "volume_usd": 99511889.06987832
+    },
+    {
+        "network": "Linea",
+        "derivatives": "wefi",
+        "volume_usd": 5855.0
+    },
+    {
+        "network": "Base",
+        "derivatives": "BMX",
+        "volume_usd": 46024053.41036029
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Level Finance",
+        "volume_usd": 1315615732.2619138
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Equation V2",
+        "volume_usd": 13168745150.918762
+    },
+    {
+        "network": "Scroll",
+        "derivatives": "Rollie Finance",
+        "volume_usd": 22177.0
+    },
+    {
+        "network": "Cronos",
+        "derivatives": "Fulcrom - Derivatives",
+        "volume_usd": 1740059513.6862998
+    },
+    {
+        "network": "Merlin",
+        "derivatives": "Surf Protocol",
+        "volume_usd": 505165159.0
+    },
+    {
+        "network": "Ethereum",
+        "derivatives": "ApeX Protocol",
+        "volume_usd": 68658255444.43252
+    },
+    {
+        "network": "BSC",
+        "derivatives": "Morphex - Derivatives",
+        "volume_usd": 15854171.525075618
+    },
+    {
+        "network": "Base",
+        "derivatives": "basedmarkets",
+        "volume_usd": 984724157.3927734
+    },
+    {
+        "network": "Ethereum",
+        "derivatives": "dYdX V3",
+        "volume_usd": 1210162508020.132
+    },
+    {
+        "network": "BSC",
+        "derivatives": "Grizzly Trade",
+        "volume_usd": 6594819.533451998
+    },
+    {
+        "network": "Optimism",
+        "derivatives": "Polynomial Trade",
+        "volume_usd": 4553501557.673551
+    },
+    {
+        "network": "zkSync Era",
+        "derivatives": "Satori Perp",
+        "volume_usd": 12825452445.168997
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "El Dorado Exchange - Derivatives",
+        "volume_usd": 1898755927.651976
+    },
+    {
+        "network": "Polygon",
+        "derivatives": "wefi",
+        "volume_usd": 91.0
+    },
+    {
+        "network": "zkSync Era",
+        "derivatives": "Fulcrom - Derivatives",
+        "volume_usd": 323103214.02584994
+    },
+    {
+        "network": "Solana",
+        "derivatives": "GooseFX",
+        "volume_usd": 430971711.7469697
+    },
+    {
+        "network": "Gnosis",
+        "derivatives": "Contango V2",
+        "volume_usd": 31492812.98759949
+    },
+    {
+        "network": "Polygon zkEVM",
+        "derivatives": "Satori Perp",
+        "volume_usd": 1344406477.925218
+    },
+    {
+        "network": "Kava",
+        "derivatives": "Kinetix Derivatives V2",
+        "volume_usd": 9254335.6069255
+    },
+    {
+        "network": "Optimism",
+        "derivatives": "UniDex",
+        "volume_usd": 115484800.221
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Perennial V2",
+        "volume_usd": 580583837.0017868
+    },
+    {
+        "network": "Base",
+        "derivatives": "Avantis",
+        "volume_usd": 543375787.0
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "GMX V2",
+        "volume_usd": 36579431108.510254
+    },
+    {
+        "network": "Sui",
+        "derivatives": "Bluefin",
+        "volume_usd": 24725686325.978195
+    },
+    {
+        "network": "Solana",
+        "derivatives": "Drift",
+        "volume_usd": 23336655112.0
+    },
+    {
+        "network": "Moonbeam",
+        "derivatives": "Beamex",
+        "volume_usd": 36579230.15334229
+    },
+    {
+        "network": "Base",
+        "derivatives": "BSX Exchange",
+        "volume_usd": 1733002497.0
+    },
+    {
+        "network": "Avalanche",
+        "derivatives": "FWX",
+        "volume_usd": 151252351.755153
+    },
+    {
+        "network": "opBNB",
+        "derivatives": "KiloEx",
+        "volume_usd": 9254738775.09
+    },
+    {
+        "network": "zkSync Era",
+        "derivatives": "Pinnako",
+        "volume_usd": 58246663.146322
+    },
+    {
+        "network": "Scroll",
+        "derivatives": "Satori Perp",
+        "volume_usd": 32188444.05388
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Vela Exchange",
+        "volume_usd": 9358998042.231203
+    },
+    {
+        "network": "MultiversX",
+        "derivatives": "AshPerp",
+        "volume_usd": 1171792.0
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Lexer Markets",
+        "volume_usd": 4789015.8191974
+    },
+    {
+        "network": "zkSync Era",
+        "derivatives": "Increment Protocol",
+        "volume_usd": 558609.0
+    },
+    {
+        "network": "XDC",
+        "derivatives": "wefi",
+        "volume_usd": 13960252.0
+    },
+    {
+        "network": "Optimism",
+        "derivatives": "Synthetix",
+        "volume_usd": 55397929953.60999
+    },
+    {
+        "network": "BSC",
+        "derivatives": "KiloEx",
+        "volume_usd": 704576090.97
+    },
+    {
+        "network": "Polygon",
+        "derivatives": "Contango V2",
+        "volume_usd": 9478120.334038246
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "UrDEX Finance",
+        "volume_usd": 2648638.817436599
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Equation V1",
+        "volume_usd": 8115730723.272404
+    },
+    {
+        "network": "Base",
+        "derivatives": "Contango V2",
+        "volume_usd": 7501819.62502928
+    },
+    {
+        "network": "Carbon",
+        "derivatives": "Demex",
+        "volume_usd": 318126619.0
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "BLEX",
+        "volume_usd": 40461590.91182699
+    },
+    {
+        "network": "Telos",
+        "derivatives": "LogX",
+        "volume_usd": 412850.0
+    },
+    {
+        "network": "Avalanche",
+        "derivatives": "GMX V2",
+        "volume_usd": 820162900.4341387
+    },
+    {
+        "network": "Blast",
+        "derivatives": "LogX",
+        "volume_usd": 175024754.0
+    },
+    {
+        "network": "Blast",
+        "derivatives": "Blitz",
+        "volume_usd": 11557734051.0
+    },
+    {
+        "network": "CORE",
+        "derivatives": "NLX Protocol",
+        "volume_usd": 1751827.0
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "APX Finance",
+        "volume_usd": 362058759.4473
+    },
+    {
+        "network": "Optimism",
+        "derivatives": "Contango V2",
+        "volume_usd": 43735822.00119758
+    },
+    {
+        "network": "Polygon",
+        "derivatives": "Covo V2 - Derivatives",
+        "volume_usd": 64026019.66806384
+    },
+    {
+        "network": "zkSync Era",
+        "derivatives": "HoldStation DeFutures",
+        "volume_usd": 9442382635.4122
+    },
+    {
+        "network": "BSC",
+        "derivatives": "Level Finance",
+        "volume_usd": 17980662264.88596
+    },
+    {
+        "network": "Linea",
+        "derivatives": "MYX Finance",
+        "volume_usd": 12049850.0
+    },
+    {
+        "network": "Bitcoincash",
+        "derivatives": "AnyHedge",
+        "volume_usd": 22714677.0
+    },
+    {
+        "network": "Avalanche",
+        "derivatives": "GMX - Derivatives V1",
+        "volume_usd": 20882786419.16653
+    },
+    {
+        "network": "BSC",
+        "derivatives": "MUX Protocol",
+        "volume_usd": 100196281.76548348
+    },
+    {
+        "network": "Base",
+        "derivatives": "SwapBased Perp",
+        "volume_usd": 432846.6048944301
+    },
+    {
+        "network": "Solana",
+        "derivatives": "Zeta",
+        "volume_usd": 8717523681.0
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "UniDex",
+        "volume_usd": 117538665.1906152
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "GMX - Derivatives V1",
+        "volume_usd": 120980913767.1843
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Y2K V1",
+        "volume_usd": 106569323.93128002
+    },
+    {
+        "network": "Ethereum",
+        "derivatives": "IPOR",
+        "volume_usd": 4355200889.0
+    },
+    {
+        "network": "Fantom",
+        "derivatives": "UniDex",
+        "volume_usd": 74939068.6238765
+    },
+    {
+        "network": "Kava",
+        "derivatives": "KPerp Exchange",
+        "volume_usd": 468817.00012593
+    },
+    {
+        "network": "BSC",
+        "derivatives": "Swych Perpetual",
+        "volume_usd": 9984924.0
+    },
+    {
+        "network": "Sui",
+        "derivatives": "Sudo Finance",
+        "volume_usd": 27230388.0
+    },
+    {
+        "network": "Solana",
+        "derivatives": "Jupiter Perpetual Exchange",
+        "volume_usd": 50836695548.4
+    },
+    {
+        "network": "Linea",
+        "derivatives": "Metavault Derivatives V2",
+        "volume_usd": 7204689.814107509
+    },
+    {
+        "network": "Optimism",
+        "derivatives": "Pika V4",
+        "volume_usd": 510974193.9425047
+    },
+    {
+        "network": "zkSync Era",
+        "derivatives": "Gambit Trade",
+        "volume_usd": 22927211.352904
+    },
+    {
+        "network": "Solana",
+        "derivatives": "Mango Markets V4",
+        "volume_usd": 107305701.58242
+    },
+    {
+        "network": "Blast",
+        "derivatives": "HMX",
+        "volume_usd": 749250897.0
+    },
+    {
+        "network": "Kroma",
+        "derivatives": "LogX",
+        "volume_usd": 33752151.0
+    },
+    {
+        "network": "Blast",
+        "derivatives": "IntentX",
+        "volume_usd": 117460724.0
+    },
+    {
+        "network": "BSC",
+        "derivatives": "PancakeSwap Perps",
+        "volume_usd": 23586347186.2276
+    },
+    {
+        "network": "Base",
+        "derivatives": "Vela Exchange",
+        "volume_usd": 80495912.82396898
+    },
+    {
+        "network": "Fantom",
+        "derivatives": "Morphex - Derivatives",
+        "volume_usd": 179397798.48712835
+    },
+    {
+        "network": "Base",
+        "derivatives": "JOJO",
+        "volume_usd": 3095581756.0
+    },
+    {
+        "network": "BSC",
+        "derivatives": "APX Finance",
+        "volume_usd": 33714696279.78397
+    },
+    {
+        "network": "Injective",
+        "derivatives": "Helix",
+        "volume_usd": 8058366363.0
+    },
+    {
+        "network": "Ethereum",
+        "derivatives": "Aevo",
+        "volume_usd": 50863473890.82
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "HMX",
+        "volume_usd": 34324321425.11339
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Contango V2",
+        "volume_usd": 216526643.573693
+    },
+    {
+        "network": "Polygon",
+        "derivatives": "Metavault Derivatives V2",
+        "volume_usd": 2863845.0
+    },
+    {
+        "network": "Hyperliquid",
+        "derivatives": "Hyperliquid Perp",
+        "volume_usd": 215163867847.0
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "KTX.Finance",
+        "volume_usd": 1670096804.4101
+    },
+    {
+        "network": "Gnosis",
+        "derivatives": "Mu Exchange",
+        "volume_usd": 4635908.0
+    },
+    {
+        "network": "Aptos",
+        "derivatives": "Merkle Trade",
+        "volume_usd": 9448268424.240402
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Vertex",
+        "volume_usd": 89716673085.388
+    },
+    {
+        "network": "Base",
+        "derivatives": "UniDex",
+        "volume_usd": 6365711.0
+    },
+    {
+        "network": "Zkfair",
+        "derivatives": "Hyperion Exchange",
+        "volume_usd": 682853382.780997
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "MUX Protocol",
+        "volume_usd": 35253824309.92001
+    },
+    {
+        "network": "Base",
+        "derivatives": "IntentX",
+        "volume_usd": 1717809271.59758
+    },
+    {
+        "network": "TON",
+        "derivatives": "Storm Trade",
+        "volume_usd": 548772285.49
+    },
+    {
+        "network": "Polygon",
+        "derivatives": "Gains Network",
+        "volume_usd": 3748586659.319202
+    },
+    {
+        "network": "Evmos",
+        "derivatives": "UniDex",
+        "volume_usd": 75406782.0
+    },
+    {
+        "network": "Base",
+        "derivatives": "Synthetix V3",
+        "volume_usd": 1485280138.0
+    },
+    {
+        "network": "BSC",
+        "derivatives": "THENA ALPHA",
+        "volume_usd": 321575632.2357196
+    },
+    {
+        "network": "Sei",
+        "derivatives": "Levana Perps",
+        "volume_usd": 40630875.76833604
+    },
+    {
+        "network": "Blast",
+        "derivatives": "BFX (Blast Futures)",
+        "volume_usd": 25005637360.0
+    },
+    {
+        "network": "Optimism",
+        "derivatives": "MUX Protocol",
+        "volume_usd": 162881703.43011308
+    },
+    {
+        "network": "BSC",
+        "derivatives": "KTX.Finance",
+        "volume_usd": 1105192656.194528
+    },
+    {
+        "network": "Starknet",
+        "derivatives": "RabbitX",
+        "volume_usd": 115549994973.04
+    },
+    {
+        "network": "Blast",
+        "derivatives": "SynFutures V3",
+        "volume_usd": 74972410965.0
+    },
+    {
+        "network": "Base",
+        "derivatives": "Nether.Fi",
+        "volume_usd": 642357.5674659198
+    },
+    {
+        "network": "Avalanche",
+        "derivatives": "MUX Protocol",
+        "volume_usd": 880754320.237385
+    },
+    {
+        "network": "Linea",
+        "derivatives": "LogX",
+        "volume_usd": 195932737.0
+    },
+    {
+        "network": "Mantle",
+        "derivatives": "KTX.Finance",
+        "volume_usd": 5262007924.02496
+    },
+    {
+        "network": "BSC",
+        "derivatives": "SpaceDex - Derivatives",
+        "volume_usd": 971552.9164240304
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Aark Digital",
+        "volume_usd": 28950589811.15
+    },
+    {
+        "network": "zkSync Era",
+        "derivatives": "UniDex",
+        "volume_usd": 40111197.63676
+    },
+    {
+        "network": "Manta",
+        "derivatives": "LogX",
+        "volume_usd": 68877731.0
+    },
+    {
+        "network": "Injective",
+        "derivatives": "Levana Perps",
+        "volume_usd": 139560152.2714165
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Orderly Network",
+        "volume_usd": 44576950061.56642
+    },
+    {
+        "network": "Solana",
+        "derivatives": "FlashTrade",
+        "volume_usd": 2601353304.0
+    },
+    {
+        "network": "Optimism",
+        "derivatives": "Pika",
+        "volume_usd": 1159905034.6090608
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Y2K V2",
+        "volume_usd": 4410002.468079001
+    },
+    {
+        "network": "Linea",
+        "derivatives": "Satori Perp",
+        "volume_usd": 15378256.912251996
+    },
+    {
+        "network": "BSC",
+        "derivatives": "Grizzly Trade V2",
+        "volume_usd": 2469701.0
+    },
+    {
+        "network": "Celo",
+        "derivatives": "ImmortalX",
+        "volume_usd": 41843745.18999999
+    },
+    {
+        "network": "opBNB",
+        "derivatives": "APX Finance",
+        "volume_usd": 43683367.0
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Substance Exchange",
+        "volume_usd": 247707054.4266
+    },
+    {
+        "network": "Polygon",
+        "derivatives": "SynFutures V2 (Deprecated)",
+        "volume_usd": 4618823532.949695
+    },
+    {
+        "network": "dYdX",
+        "derivatives": "dYdX V4",
+        "volume_usd": 133838022174.9
+    },
+    {
+        "network": "Metis",
+        "derivatives": "UniDex",
+        "volume_usd": 1116910.6
+    },
+    {
+        "network": "Base",
+        "derivatives": "PancakeSwap Perps",
+        "volume_usd": 324696963.0
+    },
+    {
+        "network": "zkSync Era",
+        "derivatives": "Rollup Finance vAMM",
+        "volume_usd": 19670364.340842668
+    },
+    {
+        "network": "Base",
+        "derivatives": "APX Finance",
+        "volume_usd": 58188984.0
+    },
+    {
+        "network": "Mode",
+        "derivatives": "LogX",
+        "volume_usd": 1368207039.0
+    },
+    {
+        "network": "Avalanche",
+        "derivatives": "EMDX",
+        "volume_usd": 589044184.8365083
+    },
+    {
+        "network": "Osmosis",
+        "derivatives": "Levana Perps",
+        "volume_usd": 2482544805.6559744
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "SpaceDex - Derivatives",
+        "volume_usd": 14886.58697479
+    },
+    {
+        "network": "Mantle",
+        "derivatives": "IntentX",
+        "volume_usd": 621642373.0
+    },
+    {
+        "network": "Manta",
+        "derivatives": "KiloEx",
+        "volume_usd": 688299335.24
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Gambit Trade",
+        "volume_usd": 88059278.920066
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "MYX Finance",
+        "volume_usd": 7657772980.0
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Pingu Exchange",
+        "volume_usd": 1920198293.0
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "IPOR",
+        "volume_usd": 15339309.0
+    },
+    {
+        "network": "Ethereum",
+        "derivatives": "Paradex",
+        "volume_usd": 27264345867.28355
+    },
+    {
+        "network": "Base",
+        "derivatives": "Voodoo Trade Base",
+        "volume_usd": 18791.85112361
+    },
+    {
+        "network": "Ethereum",
+        "derivatives": "Contango V2",
+        "volume_usd": 207114698.3323064
+    },
+    {
+        "network": "Mantle",
+        "derivatives": "LogX",
+        "volume_usd": 966792524.0
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "PancakeSwap Perps",
+        "volume_usd": 2047195274.3455837
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "Gains Network",
+        "volume_usd": 26846824723.375
+    }
+]
