@@ -1,0 +1,178 @@
+[
+    {
+        "network": "Polygon",
+        "volume_usd": 8538541197.340872
+    },
+    {
+        "network": "Arbitrum",
+        "volume_usd": 465162677524.3942
+    },
+    {
+        "network": "Celo",
+        "volume_usd": 41828900.18999999
+    },
+    {
+        "network": "Kava",
+        "volume_usd": 9465453.60705143
+    },
+    {
+        "network": "MultiversX",
+        "volume_usd": 1171792.0
+    },
+    {
+        "network": "Aptos",
+        "volume_usd": 9437905050.240402
+    },
+    {
+        "network": "BSC",
+        "volume_usd": 77422937942.0382
+    },
+    {
+        "network": "Injective",
+        "volume_usd": 8163946141.271417
+    },
+    {
+        "network": "Optimism",
+        "volume_usd": 61941018763.48738
+    },
+    {
+        "network": "Scroll",
+        "volume_usd": 32013398.05388
+    },
+    {
+        "network": "XDC",
+        "volume_usd": 13913813.0
+    },
+    {
+        "network": "Evmos",
+        "volume_usd": 75406782.0
+    },
+    {
+        "network": "Moonbeam",
+        "volume_usd": 36568913.15334229
+    },
+    {
+        "network": "Polygon zkEVM",
+        "volume_usd": 1344395573.925218
+    },
+    {
+        "network": "Merlin",
+        "volume_usd": 491252131.0
+    },
+    {
+        "network": "Mode",
+        "volume_usd": 1367665840.0
+    },
+    {
+        "network": "Sui",
+        "volume_usd": 24708833721.978195
+    },
+    {
+        "network": "Carbon",
+        "volume_usd": 313314067.0
+    },
+    {
+        "network": "Osmosis",
+        "volume_usd": 2481489841.6559744
+    },
+    {
+        "network": "Blast",
+        "volume_usd": 111437844075.0
+    },
+    {
+        "network": "Sei",
+        "volume_usd": 40630849.76833604
+    },
+    {
+        "network": "Gnosis",
+        "volume_usd": 36097981.98759949
+    },
+    {
+        "network": "Kroma",
+        "volume_usd": 33747449.0
+    },
+    {
+        "network": "zkSync Era",
+        "volume_usd": 22586927302.08388
+    },
+    {
+        "network": "Hyperliquid",
+        "volume_usd": 214745595383.0
+    },
+    {
+        "network": "Avalanche",
+        "volume_usd": 23318824693.42977
+    },
+    {
+        "network": "Cronos",
+        "volume_usd": 1737932571.6862998
+    },
+    {
+        "network": "Fuse",
+        "volume_usd": 1915653.0
+    },
+    {
+        "network": "Linea",
+        "volume_usd": 230121880.72635952
+    },
+    {
+        "network": "opBNB",
+        "volume_usd": 9288607527.09
+    },
+    {
+        "network": "Metis",
+        "volume_usd": 1116910.6
+    },
+    {
+        "network": "Manta",
+        "volume_usd": 756316669.24
+    },
+    {
+        "network": "CORE",
+        "volume_usd": 1746754.0
+    },
+    {
+        "network": "Fantom",
+        "volume_usd": 253952403.1110048
+    },
+    {
+        "network": "Solana",
+        "volume_usd": 85835020275.7294
+    },
+    {
+        "network": "Base",
+        "volume_usd": 10158441431.159857
+    },
+    {
+        "network": "Zkfair",
+        "volume_usd": 682853313.780997
+    },
+    {
+        "network": "dYdX",
+        "volume_usd": 133617722234.9
+    },
+    {
+        "network": "Starknet",
+        "volume_usd": 115438315516.04
+    },
+    {
+        "network": "Ethereum",
+        "volume_usd": 1361165239720.9983
+    },
+    {
+        "network": "Telos",
+        "volume_usd": 412850.0
+    },
+    {
+        "network": "TON",
+        "volume_usd": 542468676.49
+    },
+    {
+        "network": "Mantle",
+        "volume_usd": 6847463198.02496
+    },
+    {
+        "network": "Bitcoincash",
+        "volume_usd": 22504909.0
+    }
+]
