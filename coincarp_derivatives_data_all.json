@@ -1,0 +1,167 @@
+[
+    {
+        "exchange": "binance",
+        "futures": 1993611250766.3584,
+        "perpetual": 55193763751705.0
+    },
+    {
+        "exchange": "bigone",
+        "futures": 48803384353.88,
+        "perpetual": 3357848339241.8896
+    },
+    {
+        "exchange": "bibox",
+        "futures": 0.0,
+        "perpetual": 0.0
+    },
+    {
+        "exchange": "btse",
+        "futures": 19072618584.0,
+        "perpetual": 1338041968444.23
+    },
+    {
+        "exchange": "fameex",
+        "futures": 0.0,
+        "perpetual": 375824590647.78
+    },
+    {
+        "exchange": "websea",
+        "futures": 0.0,
+        "perpetual": 0.0
+    },
+    {
+        "exchange": "bitfinex",
+        "futures": 0.0,
+        "perpetual": 0.0
+    },
+    {
+        "exchange": "bitflyer",
+        "futures": 0.0,
+        "perpetual": 0.0
+    },
+    {
+        "exchange": "lbank",
+        "futures": 0.0,
+        "perpetual": 0.0
+    },
+    {
+        "exchange": "onus",
+        "futures": 0.0,
+        "perpetual": 41889303.33
+    },
+    {
+        "exchange": "bitget",
+        "futures": 1265157638.0,
+        "perpetual": 6784110460019.689
+    },
+    {
+        "exchange": "hkd-com",
+        "futures": 0.0,
+        "perpetual": 0.0
+    },
+    {
+        "exchange": "zaif",
+        "futures": 0.0,
+        "perpetual": 0.0
+    },
+    {
+        "exchange": "deepcoin",
+        "futures": 34693642425.0,
+        "perpetual": 767845104799.67
+    },
+    {
+        "exchange": "whitebit",
+        "futures": 0.0,
+        "perpetual": 389662550529.6
+    },
+    {
+        "exchange": "bitmex",
+        "futures": 16415072927.14,
+        "perpetual": 786546534802.74
+    },
+    {
+        "exchange": "prime-xbt",
+        "futures": 0.0,
+        "perpetual": 136563037587.51004
+    },
+    {
+        "exchange": "xt",
+        "futures": 0.0,
+        "perpetual": 0.0
+    },
+    {
+        "exchange": "tapbit",
+        "futures": 0.0,
+        "perpetual": 0.0
+    },
+    {
+        "exchange": "aevo",
+        "futures": 0.0,
+        "perpetual": 37103140875.6
+    },
+    {
+        "exchange": "coinex",
+        "futures": 12187706142.689783,
+        "perpetual": 425255603601.1299
+    },
+    {
+        "exchange": "fmfw-io",
+        "futures": 0.0,
+        "perpetual": 49681319091.98011
+    },
+    {
+        "exchange": "bybit",
+        "futures": 1242735135833.0,
+        "perpetual": 10528410909483.0
+    },
+    {
+        "exchange": "cointr-pro",
+        "futures": 0.0,
+        "perpetual": 3168222321781.52
+    },
+    {
+        "exchange": "bittrex",
+        "futures": 0.0,
+        "perpetual": 0.0
+    },
+    {
+        "exchange": "gate-io",
+        "futures": 35749267008.1,
+        "perpetual": 2347098644272.0
+    },
+    {
+        "exchange": "aboard-exchange",
+        "futures": 0.0,
+        "perpetual": 17777804858.0
+    },
+    {
+        "exchange": "kucoin",
+        "futures": 805670609.2700123,
+        "perpetual": 2530839097110.0
+    },
+    {
+        "exchange": "deribit",
+        "futures": 48395991834.0,
+        "perpetual": 642399191298.45
+    },
+    {
+        "exchange": "bib-exchange",
+        "futures": 0.0,
+        "perpetual": 0.0
+    },
+    {
+        "exchange": "okex",
+        "futures": 2546916409483.801,
+        "perpetual": 16145579396085.0
+    },
+    {
+        "exchange": "coinw",
+        "futures": 67976913.09,
+        "perpetual": 0.0
+    },
+    {
+        "exchange": "bingx",
+        "futures": 0.0,
+        "perpetual": 0.0
+    }
+]
