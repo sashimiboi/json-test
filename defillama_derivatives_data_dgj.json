@@ -1,0 +1,37 @@
+[
+    {
+        "network": "Arbitrum",
+        "derivatives": "GMX - Derivatives V1",
+        "volume_usd": 120978343359.1843
+    },
+    {
+        "network": "Solana",
+        "derivatives": "Jupiter Perpetual Exchange",
+        "volume_usd": 50730084533.4
+    },
+    {
+        "network": "Arbitrum",
+        "derivatives": "GMX V2",
+        "volume_usd": 36366037816.510254
+    },
+    {
+        "network": "Avalanche",
+        "derivatives": "GMX - Derivatives V1",
+        "volume_usd": 20881885646.16653
+    },
+    {
+        "network": "Ethereum",
+        "derivatives": "dYdX V3",
+        "volume_usd": 1210071425131.132
+    },
+    {
+        "network": "dYdX",
+        "derivatives": "dYdX V4",
+        "volume_usd": 133617722234.9
+    },
+    {
+        "network": "Avalanche",
+        "derivatives": "GMX V2",
+        "volume_usd": 815898043.4341387
+    }
+]
